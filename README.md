@@ -1,26 +1,35 @@
 # Zero to Rails & Vue
 
+This is the Day 1 for a 5 day JavaScript & Rails workshop.
+
 ## Instructions
+
++ Clone this repo & run bundle install
++ Install [vue devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en) if you haven't already.
++ start the rails server
++ `open localhost:3000`
++ Use the videos & wireframe to complete the goals
++ Complete the bonus goals if you wish
 
 ### Goals
 
 [Presentation](hybrid-rails-code-platoon-1.pdf?raw=true)
 ![Wireframe](/wireframe.png?raw=true)
 
-+ Clone this repo & run bundle install
 + Follow the videos to create a vue-alert component
 + Use what you've learned to create a vue-show-more component
+
+#### Video 1: [Include Vue.js in a Rails App](https://youtu.be/HcL2jjen61o)
+
+#### Video 2: [Extract a Component](https://youtu.be/wrB-0XvFYDc)
+
+#### Video 3: [Bring that Component to Life](https://youtu.be/RPpTQKxoEPI)
 
 ### Bonus Goals
 + Research how to add animations and transitions to Vue's v-if
 + Add a subtle fade out effect when the alert is dismissed
 + Add a slide up and slide down effect when the show-more component is toggled.
 
-### Video 1: [Include Vue.js in a Rails App](https://youtu.be/HcL2jjen61o)
-
-### Video 2: [Extract a Component](https://youtu.be/wrB-0XvFYDc)
-
-### Video 3: [Bring that Component to Life](https://youtu.be/RPpTQKxoEPI)
 
 
 ## Rails & Vue Cheatsheet
