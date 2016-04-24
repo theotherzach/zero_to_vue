@@ -7,6 +7,14 @@
 
     data: function () {
       return {
+        isDisplayed: true
+      }
+    },
+
+    methods: {
+      dismiss: function () {
+        var self = this
+        self.isDisplayed = false
       }
     }
 
